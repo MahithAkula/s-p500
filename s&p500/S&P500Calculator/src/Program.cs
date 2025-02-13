@@ -1,6 +1,6 @@
 using System;
 
-namespace S&P500Calculator
+namespace SP500Calculator
 {
     class Program
     {

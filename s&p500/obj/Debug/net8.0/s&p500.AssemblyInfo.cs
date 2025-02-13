@@ -23,7 +23,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("s&p500")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fb35344058180cc3a8e1319592bb371ec90d6be")]
 [assembly: System.Reflection.AssemblyProductAttribute("s&p500")]
 [assembly: System.Reflection.AssemblyTitleAttribute("s&p500")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
